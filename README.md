@@ -51,8 +51,12 @@ I can spend hours tuning a model for a 0.01 improvement in R² — and enjoy eve
 ---
 ---
 
+---
+
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Fatehin03&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&show_total_commits=true&show_current_year_commits=true&hide_border=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=Fatehin03&theme=cobalt&hide_border=false&mode=weekly)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatehin03&theme=cobalt&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fatehin03&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
